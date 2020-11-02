@@ -1,6 +1,5 @@
 def square(x):
-   return float(x) * float(x)
-
+   return x
 x = 10 
 #input()
-print(square(float(x)))
+print(square(x))
