@@ -3,4 +3,4 @@ def square(x):
 
 x = 10 
 #input()
-print(square(x))
+print(square(float(x)))
